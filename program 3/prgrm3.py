@@ -1,4 +1,4 @@
-s=str(input("Enter the Line Of Text :"))
+s=str(input("Enter the Line of Text :"))
 count= dict()
 words = s.split()
 for x in words:
